@@ -1,4 +1,4 @@
 venv/
 images_data/
 .ipynb_checkpoints
-.geojson
+example_dataset.geojson
