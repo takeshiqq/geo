@@ -2,3 +2,4 @@ venv/
 images_data/
 .ipynb_checkpoints
 example_dataset.geojson
+updated_dataset.geojson
