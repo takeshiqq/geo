@@ -3,3 +3,14 @@ images_data/
 .ipynb_checkpoints
 example_dataset.geojson
 updated_dataset.geojson
+polygon.geojson
+soil_moisture.tif
+soil_moisture.tif.aux.xml
+/Lab_05/jpeg_soil_moisture.jpg
+/Lab_05/jpeg_soil_moisture.jpg.aux.xml
+/Lab_05/new.tif
+/Lab_05/newnew.tif.aux.
+/Lab_05/soil.jpg
+/Lab_05/soil.jpg.aux.xml
+/Lab_05/soil.tif
+/Lab_05/newnew.tif.aux.xml
